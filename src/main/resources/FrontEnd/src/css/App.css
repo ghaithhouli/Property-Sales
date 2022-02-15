@@ -1,0 +1,9 @@
+.body {  
+    font-family: 'Hanalei Fill', cursive;
+    background-image: url('../image/background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height:100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
