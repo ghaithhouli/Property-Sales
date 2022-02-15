@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "img": "/images/1.jpg",
+    "postion": "576 Sumner Place, Maplewood, South Dakota, 8241",
+    "price" : 30000000,
+    "numberTheShares": 3,
+    "city":"Damascus"
+
+  },
+  {
+    "id": 2,
+    "img": "/images/2.jpg",
+    "postion": "736 Hawthorne Street, Dale, South Carolina, 9596",
+    "price" : 25000000,
+    "numberTheShares": 1,
+    "city":"Daraa"
+  },
+  {
+    "id": 3,
+    "img": "/images/3.jpg",
+    "postion": "358 Havens Place, Coyote, Illinois, 1522",
+    "price" : 40000000,
+    "numberTheShares": 3,
+    "city":"Damascus"
+  },
+  {
+    "id": 4,
+    "img": "/images/4.jpg",
+    "postion": "356 Balfour Place, Sehili, Palau, 2038",
+    "price" : 15000000,
+    "numberTheShares": 1,
+    "city":"Daraa"
+
+  },
+  {
+    "id": 5,
+    "img": "/images/5.jpg",
+    "postion": "765 Albemarle Terrace, Riceville, West Virginia, 129",
+    "price" : 30000000,
+    "numberTheShares": 1,
+    "city":"Damascus"
+
+  },
+  {
+    "id": 6,
+    "img": "/images/6.jpg",
+    "postion": "370 Stryker Street, Foxworth, Michigan, 5807",
+    "price" : 20000000,
+    "numberTheShares": 1,
+    "city":"Daraa"
+  },
+  {
+    "id": 7,
+    "img": "/images/7.jpg",
+    "postion": "248 Seeley Street, Tyhee, New York, 1109",
+    "price" : 30000000,
+    "numberTheShares": 2,
+    "city":"Damascus"
+
+  },
+  {
+    "id": 8,
+    "img": "/images/8.jpg",
+    "postion": "466 Turnbull Avenue, Falmouth, Indiana, 7763",
+    "price" : 30000000,
+    "numberTheShares": 3,
+    "city":"Daraa"
+
+  },
+  {
+    "id": 9,
+    "img": "/images/9.jpg",
+    "postion": "693 Cumberland Street, Marne, Kansas, 8151",
+    "price" : 30000000,
+    "numberTheShares": 2,
+    "city":"Aleppo"
+  },
+  {
+    "id": 10,
+    "img": "/images/10.jpg",
+    "postion": "747 Burnett Street, Kiskimere, District Of Columbia, 2734",
+    "price" : 30000000,
+    "numberTheShares": 1,
+    "city":"Latakia"
+  }
+]
